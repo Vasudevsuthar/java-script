@@ -28,7 +28,17 @@ console.log(typeof e);
 
 
 
-//Reference Data Type//
+//Reference(Non Primitive) Data Type//
 //1.Object => used to store collections of data and more complex entities.
+let myObj = {
+  name: "Vasudev",
+  email: "vasudev@gmail.com"
+}
 
-//2.Array => used to store multiple value in a single variable
+//2.Array => used to store multiple value in a single variable.
+let arr = [Ram, Hanuman, Bali];
+
+//3.Function => 
+const myFunction = Function(){
+   console.log("Hello World");
+}
