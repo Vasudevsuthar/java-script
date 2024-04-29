@@ -39,6 +39,6 @@ let myObj = {
 let arr = [Ram, Hanuman, Bali];
 
 //3.Function => 
-const myFunction = Function(){
+const myFunction = function(){
    console.log("Hello World");
 }
